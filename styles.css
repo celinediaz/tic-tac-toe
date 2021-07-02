@@ -1,13 +1,18 @@
 body {
     text-align: center;
     background-color: #F7D3FD;
-    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    font-family: flegrei, sans-serif;
+    font-weight: 400;
+    font-style: normal;
 }
 h1 {
     color: #8C389A;
 }
 h2{
     color: #F7D3FD;
+}
+p{
+    font-family: Arial, Helvetica, sans-serif
 }
 .fa-times{
     color: #26A063;
